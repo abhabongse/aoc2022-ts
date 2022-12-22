@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "lodash": "https://cdn.skypack.dev/pin/lodash@v4.17.21-K6GEbP02mWFnLA45zAmi/mode=imports,min/optimized/lodash.js"
+  }
+}
